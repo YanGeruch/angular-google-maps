@@ -1,3 +1,5 @@
+**No changes from [upstream v3.0.0-beta.1](https://github.com/sebholstein/angular-google-maps) other than Angular 15 in `package.json`.**
+
 [![AGM - Angular Google Maps](assets/images/angular-google-maps-logo.png)](https://angular-maps.com/)
 
 # AGM - Angular Google Maps
