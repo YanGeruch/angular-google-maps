@@ -1,5 +1,4 @@
 {
-  "private": true,
   "version": "15.2.9",
   "description": "Angular components for Google Maps",
   "name": "@yan_geruch/agm-core-15",
